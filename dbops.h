@@ -1,1 +1,0 @@
-void setNucleotide(char *position, char *nucleotide, int shift);
